@@ -1,4 +1,4 @@
 # 算法学习（javascript） #
 
-- [快速排序](./quicksort)
+- [选择排序](./selectsort)
 - [插入排序](./insertsort)
