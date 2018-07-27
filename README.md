@@ -7,3 +7,4 @@
 
 ### O(nlogn)级的排序算法
 - [归并排序](./mergesort)
+- [快速排序](./quicksort)
